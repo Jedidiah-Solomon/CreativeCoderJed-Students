@@ -1,2 +1,2 @@
 # CreativeCoderJed-Students
-For collaboration
+For collaboration in Discord.
