@@ -69,4 +69,3 @@ Repository:CreativeCoderJed-Students
 
 This is your chance to learn and grow as a developer, data analyst or digital marketer while working in a real team environment. Everything you do will show up in our Discord, and together, we’ll make this project a success!
 
-See you in Discord, and happy coding and selling😍😍..!!
