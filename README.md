@@ -1,5 +1,7 @@
 # GitHub-Collabo - Student Collaboration Project
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/aeee854ddff94cfb913b34dd35ad15ab)](https://app.codacy.com/gh/Jedidiah-Solomon/CreativeCoderJed-Students?utm_source=github.com&utm_medium=referral&utm_content=Jedidiah-Solomon/CreativeCoderJed-Students&utm_campaign=Badge_Grade)
+
 Welcome Students!
 [Welcome Your self guys](https://creative-coder-jed-students.vercel.app/)
 This project is part of the @CreativeCoderJed-Students community. Here, we will be working together on various GitHub projects, and everything we do will be reflected in our Discord server. This way, we can stay connected, track our progress, and collaborate effectively.
