@@ -18,16 +18,17 @@ Here’s how you can start contributing to this collaborative project:
 
 2. Clone Your Fork
    Clone your forked repository to your local machine:
-   git clone https://github.com/YOUR_USERNAME/github-collabo.git
+   git clone https://github.com/YOUR_USERNAME/CreativeCoderJed-Students.git
 3. Create a New Branch
-   Always work on a new branch:
+   Always work on a new branch: `git checkout -b your-branch-name`.
+   In this project our branch patter is **name-program registered** e.g solomon-software_development,solomon-data_analysis,solomon-digital_marketing,solomon-all
 
-`git checkout -b your-branch-name`
+4. Make Your Changes
+   Feel free to contribute new features, fix bugs, or work on any task given to you.
+   Ensure every task is placed in a new folder in your branch.
+   Attach a .gitignore, README.md and LICENSE files to your project root with concise documentation.
 
-1. Make Your Changes
-   Feel free to contribute new features, fix bugs, or work on any tasks that help move the project forward.
-
-1. Commit and Push
+5. Commit and Push
    After making your changes, commit and push them:
 
 ```
@@ -36,8 +37,12 @@ git commit -m "Describe your changes"
 git push origin your-branch-name
 ```
 
+Ensure you have Git, Github desktop and a verified github account.
+
+## For projects that have to do with merging to main
+
 1. Open a Pull Request
-   Once you’re done, open a pull request from your forked repository to the main repository so that others can review your changes. All PRs will trigger notifications in Discord!
+   Once you’re done, open a pull request from your repository to the main repository so that admin can review your changes. All PRs will trigger notifications in Discord!
 
 ## Example in Discord
 
@@ -48,7 +53,7 @@ When you make a change, this is how it will show up in Discord:
 Student: @username
 Event: Commit Pushed
 Message: "Added new feature to improve UI."
-Repository: github-collabo
+Repository:CreativeCoderJed-Students
 
 ### Why This is Important
 
@@ -62,6 +67,6 @@ Repository: github-collabo
 
 ## Let’s Collaborate!
 
-This is your chance to learn and grow as a developer while working in a real team environment. Everything you do will show up in our Discord, and together, we’ll make this project a success!
+This is your chance to learn and grow as a developer, data analyst or digital marketer while working in a real team environment. Everything you do will show up in our Discord, and together, we’ll make this project a success!
 
-See you in Discord, and happy coding😍😍..!!
+See you in Discord, and happy coding and selling😍😍..!!
