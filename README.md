@@ -70,10 +70,6 @@ Repository:CreativeCoderJed-Students
 
 This is your chance to learn and grow as a developer, data analyst or digital marketer while working in a real team environment. Everything you do will show up in our Discord, and together, we’ll make this project a success!
 
-See you in Discord, and happy coding and selling 😍😍
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/378a525a188f4b019b8cc88a5f37e16a)](https://app.codacy.com/gh/Jedidiah-Solomon/CreativeCoderJed-Students/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-
-See you in Discord, and happy coding and selling 😍😍
+See you in Discord, and happy coding and selling 😍😍!
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/378a525a188f4b019b8cc88a5f37e16a)](https://app.codacy.com/gh/Jedidiah-Solomon/CreativeCoderJed-Students/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)

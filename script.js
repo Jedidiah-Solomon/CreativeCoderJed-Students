@@ -56,25 +56,39 @@ document
     });
 
     const messageElement = document.getElementById("message");
+    messageElement.textContent = ""; // Clear previous content
+
+    let messageText = "";
+
+    switch (selectedPrograms.length) {
+      case 1:
+        messageText = "Awesome choice! You're going to excel in: ";
+        break;
+      case 2:
+        messageText = "Great choice for two programs! You're ready for: ";
+        break;
+      case 3:
+        messageText =
+          "You chose them all! Remember, the task load will be good, but you'll rock at: ";
+        break;
+      default:
+        messageText =
+          "You need to select at least one program! Passion and hard work await.";
+    }
 
     if (selectedPrograms.length > 0) {
-      messageElement.textContent = ""; // Clear previous content
-
-      // Create text and strong elements to append
+      messageElement.style.color = "";
       const strongElement = document.createElement("strong");
       strongElement.textContent = selectedPrograms.join(", ");
 
-      // Append the message in a secure way
-      const messageText = document.createTextNode(
-        "Awesome choice! You're going to excel in: "
-      );
-      messageElement.appendChild(messageText);
+      // Append the dynamic message
+      messageElement.appendChild(document.createTextNode(messageText));
       messageElement.appendChild(strongElement);
       messageElement.appendChild(
-        document.createTextNode(". Now, let's dive in! 💪")
+        document.createTextNode(". Let's get started! 💪")
       );
     } else {
-      messageElement.textContent =
-        "You need to select at least one program! Passion and hard work await.";
+      messageElement.textContent = messageText;
+      messageElement.style.color = "red"; // Show the "no selection" message
     }
   });

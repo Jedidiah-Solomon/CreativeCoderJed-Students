@@ -11,7 +11,13 @@
     <div class="container">
       <h1>Welcome! What's your name?</h1>
       <form id="nameForm">
-        <input type="text" id="studentName" placeholder="Enter your name" />
+        <input
+          type="text"
+          id="studentName"
+          placeholder="Enter your name"
+          aria-label="Enter your name"
+        />
+
         <button type="submit">Submit</button>
       </form>
 
@@ -35,15 +41,26 @@
               type="checkbox"
               name="program"
               value="Full-stack Software Development"
+              aria-label="Full-stack Software Development"
             />
             Full-stack Software Development 🖥️
           </label>
           <label>
-            <input type="checkbox" name="program" value="Data Analysis" /> Data
-            Analysis 📊
+            <input
+              type="checkbox"
+              name="program"
+              value="Data Analysis"
+              aria-label="Data Analysis"
+            />
+            Data Analysis 📊
           </label>
           <label>
-            <input type="checkbox" name="program" value="Digital Marketing" />
+            <input
+              type="checkbox"
+              name="program"
+              value="Digital Marketing"
+              aria-label="Digital Marketing"
+            />
             Digital Marketing 📈
           </label>
 
