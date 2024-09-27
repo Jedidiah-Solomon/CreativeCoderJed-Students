@@ -19,4 +19,5 @@ git push origin "$current_branch"
 echo "Changes have been successfully pushed to branch $current_branch"
 
 
-# ./utils/github_pusher.sh
+# ./utils/github_pusher.sh 
+# make it an exec file
