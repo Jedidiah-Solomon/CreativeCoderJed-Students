@@ -1,6 +1,6 @@
 # GitHub-Collabo - Student Collaboration Project
 
-Welcome Students!
+Welcome Students! Saint Solomon
 [Welcome Your self guys](https://creative-coder-jed-students.vercel.app/)
 This project is part of the @CreativeCoderJed-Students community. Here, we will be working together on various GitHub projects, and everything we do will be reflected in our Discord server. This way, we can stay connected, track our progress, and collaborate effectively.
 
