@@ -42,3 +42,8 @@ Lists all branches in your repository. With git branch [branch-name], you can cr
 Switches to the specified branch or restores files to a specific state.
 20. git diff
 Shows the differences between files in the working directory, staging area, and commits.
+
+
+# Remarks
+1. Nice one
+2. Lookout for linux commands more also that are for local development and command line interface.
