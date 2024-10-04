@@ -248,3 +248,9 @@ SEO is not a primary concern: If you can address SEO challenges through other me
 SEO-critical applications: If search engine optimization is a top priority.
 Initial page load performance is crucial: If you need to provide a fast first impression.
 Simpler application structure: For traditional websites with less complex interactions.
+
+
+# Remarks
+1. Good job
+2. Do well to condense the answers next time.
+3. Use Vscode extension for markdown to test if your file can be read and it is visible.
