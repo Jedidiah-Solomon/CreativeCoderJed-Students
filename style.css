@@ -4,6 +4,7 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
+  box-sizing: border-box;
 }
 
 .container {
@@ -97,5 +98,11 @@ button:hover {
   }
   to {
     opacity: 1;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: lightgreen;
   }
 }
