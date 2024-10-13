@@ -1,2 +1,29 @@
 My name is Saint Solomon.
-i want to learn web development, digital marketinng and data analysis
+
+Class Activity 1: Differentiate betwenn a library and framework
+
+ANS: library targets a specific functionality while framework tries to provide everything required to 
+develop a complete application.
+
+Class Activity 2: List 20 unix-based commands(which can also be said to be git commands) and their uses. 
+
+ANS: 1. git init: initialize a new git repository.
+2. git clone: clone a repository into a new directory
+3. git add: add changes in your working directory to the staging area.
+4. git status: show the status of changes as untracked.modified or staged.
+5. git commit: record changes from the staging area to th repository.
+6. git pull: fetch changes from a remote repository and merge them into the branch.
+7. git push: push changes to a remote repoitory.
+8. git branch: list, create, or delete branches.
+9. git checkout: switch branches or restore working tree files.
+10. git merge: combine changes from different branches.
+11. git log: show the commit log.
+12. git diff:show changes between commits, commit and working tree, etc.
+13: git reset: reset current head to a specified state.
+14. git remote: manage set of tracked repository.
+15. git fetch: download objects and refs from another repository.
+16. git stash: stash changes in a dirty working directory away.
+17. git tag: create, list, delete or verify a tag object.
+18. git log: show the commit log.
+19. git cherry-pick: apply changes introduced by some existing commits.
+20. git remote add: add a remote repository.
