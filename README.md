@@ -369,6 +369,8 @@ A sample file [Employees Data](./employees.json)
 Definition: Microsoft Excel Open XML Spreadsheet file, used for storing spreadsheet data.
 Use Case: Ideal for complex data analysis, calculations, and visualizations in Excel.
 
+A sample file [Employees Data](./employees.xlsx)
+
 - PNG (.png)
 
 Definition: Portable Network Graphics file, a raster image format that supports lossless compression.
