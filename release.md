@@ -58,3 +58,5 @@ Note: v1.0.0 is the version number you want to assign, and it follows semantic v
    Save draft: If you’re not ready to publish, you can save it as a draft.
    Publish release: To make the release official, click the "Publish release" button.
    Once published, the release is visible to all users and can be downloaded from the GitHub releases page.
+
+6. `.zip or .tar.gz` are the file extensions used.
