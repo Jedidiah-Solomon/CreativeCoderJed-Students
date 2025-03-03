@@ -1,0 +1,186 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publicationYear": 1925,
+    "genre": "Fiction",
+    "isbn": "9780743273565",
+    "description": "A novel set in the Roaring Twenties, The Great Gatsby explores themes of decadence, love, and the American Dream."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publicationYear": 1960,
+    "genre": "Fiction",
+    "isbn": "9780061120084",
+    "description": "A gripping novel that tackles racial injustice and the loss of innocence in the American South."
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "publicationYear": 1949,
+    "genre": "Dystopian",
+    "isbn": "9780451524935",
+    "description": "A totalitarian regime uses surveillance, censorship, and propaganda to control citizens in Orwell's chilling portrayal of a dystopian future."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publicationYear": 1813,
+    "genre": "Romance",
+    "isbn": "9780141439518",
+    "description": "A witty exploration of class, marriage, and morality, centered around the strong-willed Elizabeth Bennet."
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "publicationYear": 1851,
+    "genre": "Adventure",
+    "isbn": "9780142437247",
+    "description": "The epic tale of Captain Ahab's obsessive quest to hunt down the elusive white whale, Moby-Dick."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publicationYear": 1951,
+    "genre": "Fiction",
+    "isbn": "9780316769488",
+    "description": "A coming-of-age story about a disillusioned teenager, Holden Caulfield, as he navigates the challenges of adolescence."
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "publicationYear": 1869,
+    "genre": "Historical Fiction",
+    "isbn": "9781400079988",
+    "description": "A sweeping epic set against the backdrop of Napoleonic Wars, this novel explores love, family, and the impact of war on society."
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "publicationYear": "8th Century BC",
+    "genre": "Epic Poetry",
+    "isbn": "9780140268867",
+    "description": "The legendary Greek epic that follows Odysseus' perilous journey home from the Trojan War."
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "publicationYear": 1932,
+    "genre": "Dystopian",
+    "isbn": "9780060850524",
+    "description": "A futuristic society prioritizing happiness through genetic engineering, mind control, and consumerism."
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publicationYear": 1937,
+    "genre": "Fantasy",
+    "isbn": "9780547928227",
+    "description": "The prelude to The Lord of the Rings, Bilbo Baggins embarks on an adventure to reclaim stolen treasure from a dragon."
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "publicationYear": 1866,
+    "genre": "Psychological Fiction",
+    "isbn": "9780486415871",
+    "description": "A troubled student, Raskolnikov, grapples with guilt after committing a murder, exploring themes of morality, punishment, and redemption."
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "publicationYear": 1847,
+    "genre": "Gothic Fiction",
+    "isbn": "9780141441146",
+    "description": "The life and emotional journey of the orphaned Jane Eyre, from her difficult childhood to her complex relationship with Mr. Rochester."
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "publicationYear": 1890,
+    "genre": "Gothic Fiction",
+    "isbn": "9780141439570",
+    "description": "Dorian Gray, a handsome young man, remains eternally youthful while his portrait ages, reflecting his immoral actions."
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "publicationYear": 1953,
+    "genre": "Dystopian",
+    "isbn": "9781451673319",
+    "description": "In a future where books are banned, fireman Guy Montag struggles with his role in a society that burns knowledge."
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "publicationYear": 1818,
+    "genre": "Gothic Fiction",
+    "isbn": "9780486282114",
+    "description": "Victor Frankenstein's creation of a monster leads to tragedy, exploring themes of ambition, responsibility, and human nature."
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "publicationYear": 1988,
+    "genre": "Philosophical Fiction",
+    "isbn": "9780061122415",
+    "description": "A young Andalusian shepherd named Santiago embarks on a journey to find a hidden treasure, learning valuable life lessons along the way."
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "publicationYear": 2006,
+    "genre": "Post-apocalyptic Fiction",
+    "isbn": "9780307387899",
+    "description": "A father and son journey through a desolate, post-apocalyptic world, struggling to survive and maintain their humanity."
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "publicationYear": 1985,
+    "genre": "Dystopian Fiction",
+    "isbn": "9780385490818",
+    "description": "In a theocratic society where women are subjugated, Offred struggles to reclaim her autonomy and fight against oppression."
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "publicationYear": 1926,
+    "genre": "Modernist Fiction",
+    "isbn": "9780743297331",
+    "description": "A group of expatriates living in post-World War I Europe seek meaning in a world of loss and disillusionment."
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "publicationYear": 1954,
+    "genre": "Fantasy",
+    "isbn": "9780544003415",
+    "description": "Frodo Baggins and a fellowship of companions set out to destroy the One Ring and thwart the evil Sauron."
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "publicationYear": 1942,
+    "genre": "Existential Fiction",
+    "isbn": "9780679720201",
+    "description": "A Frenchman, Meursault, lives an emotionally detached life, and his indifferent reaction to a crime leads to an existential confrontation."
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "publicationYear": 1969,
+    "genre": "Science Fiction",
+    "isbn": "9780385333849",
+    "description": "Billy Pilgrim becomes 'unstuck in time' and experiences the bombing of Dresden during World War II in this anti-war classic."
+  },
+  {
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "publicationYear": 1961,
+    "genre": "Satire",
+    "isbn": "9781451626650",
+    "description": "A darkly comic novel about a U.S. bomber squadron in World War II, where soldiers try to survive in an absurd, contradictory military system."
+  }
+]

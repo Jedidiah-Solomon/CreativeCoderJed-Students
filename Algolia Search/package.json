@@ -1,0 +1,23 @@
+{
+  "name": "algolia-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "algoliasearch": "^5.20.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "instantsearch.css": "^8.5.1",
+    "instantsearch.js": "^4.77.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9"
+  }
+}

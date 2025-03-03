@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Algolia InstantSearch Example</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/instantsearch.css@8/themes/reset.min.css"
+      integrity="sha256-gSuRK6fgzzWqzq6LVM0/fx0rL+fXwz9CVPysZGRNbzY="
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/instantsearch.css@8/themes/algolia-min.css"
+      integrity="sha256-Kvs/R388WnCq/3KxGjE68pLg6qG9iHJTvn7t6FWt9rQ="
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="search-container">
+      <div id="searchbox"></div>
+      <div id="hits" class="hide-content"></div>
+      <div id="algolia-footer" class="hide-content"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4/dist/instantsearch.production.min.js"></script>
+    <script src="search.js"></script>
+  </body>
+</html>
